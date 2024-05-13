@@ -1,10 +1,10 @@
 # flutter_aula_1
 
-A new Flutter project.
+Projeto Mini Brasileirão
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Pequeno projeto em Flutter e Dard com objetivo a lista de times, ponte e títulos de campeonatos. Aplicação em fase inicial contanto com integração com banco de dados, funções de adicionar e editar título. 
 
 A few resources to get you started if this is your first Flutter project:
 
