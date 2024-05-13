@@ -1,6 +1,4 @@
-# flutter_aula_1
-
-Projeto Mini Brasileirão
+# Projeto Mini Brasileirão
 
 ## Getting Started
 
